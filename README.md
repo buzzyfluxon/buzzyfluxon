@@ -9,6 +9,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=buzzyfluxon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=buzzyfluxon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
