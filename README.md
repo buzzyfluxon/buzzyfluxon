@@ -1,23 +1,80 @@
-## helloww world, im fluxon
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Desperate_Site6784) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adore-py) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fluxoncacput@gmail.comre) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=buzzyfluxon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=buzzyfluxon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buzzyfluxon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=buzzyfluxon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=buzzyfluxon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div><br>
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:6a0dad,100:c77dff&height=200&section=header&text=FLUXON&fontSize=70&fontColor=e0aaff&fontAlignY=38&desc=full-stack%20dev%20%7C%20builder%20%7C%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://lanyard-profile-readme.vercel.app/api/1318492193962590251?theme=dark&bg=13091f&border=6a0dad&borderRadius=12px&idleMessage=idle&animated=true" />
+
+<br/><br/>
+
+[![Reddit](https://img.shields.io/badge/Reddit-13091f?style=for-the-badge&logo=Reddit&logoColor=c77dff)](https://reddit.com/user/Desperate_Site6784)
+[![YouTube](https://img.shields.io/badge/YouTube-13091f?style=for-the-badge&logo=YouTube&logoColor=c77dff)](https://youtube.com/@adore-py)
+[![Email](https://img.shields.io/badge/Email-13091f?style=for-the-badge&logo=gmail&logoColor=c77dff)](mailto:fluxoncacput@gmail.com)
+
+</div>
+
+<br/>
+
+<h3 align="center">💻 tech stack</h3>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/javascript-13091f?style=for-the-badge&logo=javascript&logoColor=e0aaff)
+![TypeScript](https://img.shields.io/badge/typescript-13091f?style=for-the-badge&logo=typescript&logoColor=e0aaff)
+![Python](https://img.shields.io/badge/python-13091f?style=for-the-badge&logo=python&logoColor=e0aaff)
+![C](https://img.shields.io/badge/c-13091f?style=for-the-badge&logo=c&logoColor=e0aaff)
+![C%23](https://img.shields.io/badge/c%23-13091f?style=for-the-badge&logo=csharp&logoColor=e0aaff)
+
+![Supabase](https://img.shields.io/badge/supabase-13091f?style=for-the-badge&logo=supabase&logoColor=e0aaff)
+![MongoDB](https://img.shields.io/badge/mongodb-13091f?style=for-the-badge&logo=mongodb&logoColor=e0aaff)
+![MySQL](https://img.shields.io/badge/mysql-13091f?style=for-the-badge&logo=mysql&logoColor=e0aaff)
+![SQLite](https://img.shields.io/badge/sqlite-13091f?style=for-the-badge&logo=sqlite&logoColor=e0aaff)
+
+![Vercel](https://img.shields.io/badge/vercel-13091f?style=for-the-badge&logo=vercel&logoColor=e0aaff)
+![Netlify](https://img.shields.io/badge/netlify-13091f?style=for-the-badge&logo=netlify&logoColor=e0aaff)
+![Epic%20Games](https://img.shields.io/badge/epic%20games-13091f?style=for-the-badge&logo=epicgames&logoColor=e0aaff)
+![Steam](https://img.shields.io/badge/steam-13091f?style=for-the-badge&logo=steam&logoColor=e0aaff)
+
+</div>
+
+<br/>
+
+<h3 align="center">📊 stats</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=buzzyfluxon&theme=tokyonight&hide_border=true&bg_color=13091f&title_color=e0aaff&icon_color=c77dff&text_color=c9a8e0&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzyfluxon&theme=tokyonight&hide_border=true&bg_color=13091f&title_color=e0aaff&icon_color=c77dff&text_color=c9a8e0&layout=compact&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=buzzyfluxon&theme=dark&hide_border=true&background=13091f&stroke=6a0dad&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&sideLabels=c9a8e0&currStreakNum=e0aaff&sideNums=c9a8e0&dates=8a6ba8"/>
+
+<br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=buzzyfluxon&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" width="100%"/>
+
+<br/><br/>
+
+[![](https://visitcount.itsvg.in/api?id=buzzyfluxon&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,50:6a0dad,100:1a0b2e&height=100&section=footer" width="100%"/>
+
 </div>
