@@ -31,18 +31,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-13091f?style=for-the-badge&logo=javascript&logoColor=e0aaff)
 ![TypeScript](https://img.shields.io/badge/typescript-13091f?style=for-the-badge&logo=typescript&logoColor=e0aaff)
 ![Python](https://img.shields.io/badge/python-13091f?style=for-the-badge&logo=python&logoColor=e0aaff)
-![C](https://img.shields.io/badge/c-13091f?style=for-the-badge&logo=c&logoColor=e0aaff)
-![C%23](https://img.shields.io/badge/c%23-13091f?style=for-the-badge&logo=csharp&logoColor=e0aaff)
 
-![Supabase](https://img.shields.io/badge/supabase-13091f?style=for-the-badge&logo=supabase&logoColor=e0aaff)
 ![MongoDB](https://img.shields.io/badge/mongodb-13091f?style=for-the-badge&logo=mongodb&logoColor=e0aaff)
-![MySQL](https://img.shields.io/badge/mysql-13091f?style=for-the-badge&logo=mysql&logoColor=e0aaff)
-![SQLite](https://img.shields.io/badge/sqlite-13091f?style=for-the-badge&logo=sqlite&logoColor=e0aaff)
-
+![Supabase](https://img.shields.io/badge/supabase-13091f?style=for-the-badge&logo=supabase&logoColor=e0aaff)
 ![Vercel](https://img.shields.io/badge/vercel-13091f?style=for-the-badge&logo=vercel&logoColor=e0aaff)
-![Netlify](https://img.shields.io/badge/netlify-13091f?style=for-the-badge&logo=netlify&logoColor=e0aaff)
-![Epic%20Games](https://img.shields.io/badge/epic%20games-13091f?style=for-the-badge&logo=epicgames&logoColor=e0aaff)
-![Steam](https://img.shields.io/badge/steam-13091f?style=for-the-badge&logo=steam&logoColor=e0aaff)
 
 </div>
 
