@@ -57,7 +57,7 @@
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=buzzyfluxon&theme=dark&hide_border=true&background=13091f&stroke=6a0dad&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&sideLabels=c9a8e0&currStreakNum=e0aaff&sideNums=c9a8e0&dates=8a6ba8" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=buzzyfluxon&theme=dark&hide_border=true&background=13091f&stroke=6a0dad&ring=c77dff&fire=e0aaff&currStreakLabel=e0aaff&sideLabels=c9a8e0&currStreakNum=e0aaff&sideNums=c9a8e0&dates=8a6ba8" width="60%"/>
 
 </div>
 
